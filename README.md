@@ -4,9 +4,6 @@
 ## Project Description
 
 A web application for detecting fraudulent credit card transactions using Machine Learning models with Big Data scalability.
-## Getting Started
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
 ## Features
 
