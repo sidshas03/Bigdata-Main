@@ -15,3 +15,6 @@ The only requirement is having Node.js & npm installed - [install with nvm](http
 - View detailed risk analysis for each transaction
 - Categorize transactions by risk level (High, Medium, Low)
 - Visualize fraud probability distribution
+
+## Dataset
+[Hugging Face](https://huggingface.co/datasets/dazzle-nu/CIS435-CreditCardFraudDetection/tree/main)
