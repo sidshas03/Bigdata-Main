@@ -62,3 +62,18 @@ Go to Runtime > Change runtime type
 ✅ High-RAM
 ❌ No GPU needed
 
+
+Screenshot from the Portal:
+![Screenshot 2025-05-07 at 12 35 05](https://github.com/user-attachments/assets/2869f0d3-bef4-478c-a07d-9378888f61c6)
+
+
+![Screenshot 2025-05-07 at 12 35 26](https://github.com/user-attachments/assets/8d1d6c14-5157-4084-9d96-ba550fee195f)
+
+
+![Screenshot 2025-05-07 at 12 35 44](https://github.com/user-attachments/assets/448db9cd-d35b-48bd-85b3-a3da448990eb)
+
+
+![Screenshot 2025-05-07 at 12 36 01](https://github.com/user-attachments/assets/ac1757ab-852f-455d-bd45-9896c6276951)
+
+
+![Screenshot 2025-05-07 at 12 36 22](https://github.com/user-attachments/assets/29ee5636-f291-4d31-9048-ec5c9d06392e)
