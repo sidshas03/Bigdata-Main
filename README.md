@@ -43,7 +43,7 @@ Multilayer Perceptron (Neural Net)
 Source: HuggingFace
 1,048,575 Transactions
 Original fraud rate: ~0.57%
-Upsampled fraud to 124,375 (≈10.66%)
+Upsampled fraud to 10.66%
 
 🛠️ Tech Stack
 Layer	Tools Used
